@@ -67,6 +67,7 @@ Este enfoque te permite gestionar y visualizar eficazmente las tareas dentro de 
 
 # Video Tutorial
 En este video se explica lo básico para crear un proyecto MVC .NET desde cero y adicionalmente se muestra cómo filtrar y calcular datos dentro de un rango de fechas.
+https://youtu.be/GieEHFF29eo
 
 # Contactos
 Mail institucional: maria.vasconez.rea@udla.edu.ec
