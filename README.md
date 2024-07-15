@@ -71,4 +71,4 @@ https://youtu.be/GieEHFF29eo
 
 # Contactos
 Mail institucional: maria.vasconez.rea@udla.edu.ec
-Mail personal:  aria.vasconez.rea@gmail.com
+Mail personal: maria.vasconez.rea@gmail.com
