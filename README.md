@@ -61,6 +61,10 @@ appsettings.json: Archivo de configuración donde se especifica la cadena de con
 
 Este enfoque te permite gestionar y visualizar eficazmente las tareas dentro de un rango de fechas específico, proporcionando una funcionalidad crucial para el seguimiento y la gestión del trabajo en tu aplicación ASP.NET MVC.
 
+# Referencias
+**Primer Video:** https://www.youtube.com/watch?v=6r9OSQdaAb4&ab_channel=CodeWithYousaf
+**Foro:** https://dl.acm.org/doi/abs/10.5555/3158894
+
 # Video Tutorial
 En este video se explica lo básico para crear un proyecto MVC .NET desde cero y adicionalmente se muestra cómo filtrar y calcular datos dentro de un rango de fechas.
 
